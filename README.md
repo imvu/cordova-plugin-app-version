@@ -1,5 +1,7 @@
 # Cordova AppVersion plugin
 
+# This is an IMVU Fork of the Cordova AppVersion plugin
+
 Reads the version of your app from the target build settings.
 
 ## Installation
@@ -9,14 +11,13 @@ Reads the version of your app from the target build settings.
 If you are using [cordova-cli](https://github.com/apache/cordova-cli), install
 with:
 
-    cordova plugin add https://github.com/whiteoctober/cordova-plugin-app-version.git
+    cordova plugin add https://github.com/imvu/cordova-plugin-app-version.git
 
 ### With plugman
 
-With a plain [plugman](https://github.com/apache/cordova-plugman), you should be
-able to install with something like:
+With a plain [plugman](https://github.com/apache/cordova-plugman), you should be able to install with something like:
 
-    plugman --platform <ios|android> --project <directory> --plugin https://github.com/whiteoctober/cordova-plugin-app-version.git
+    plugman --platform <ios|android> --project <directory> --plugin https://github.com/imvu/cordova-plugin-app-version.git
 
 ### Manually in iOS
 
