@@ -9,7 +9,7 @@ var getAppVersion = function (success, fail) {
       var injector = angular.injector(["ng"]);
       var $q = injector.get("$q");
       deferred = $q.defer();
-      toReturn = deferred.promise
+      toReturn = deferred.promise;
     } else {
       return console.error('AppVersion either needs a success callback, or jQuery/AngularJS defined for using promises');
     }
