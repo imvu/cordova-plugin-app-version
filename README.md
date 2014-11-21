@@ -1,6 +1,6 @@
 # Cordova AppVersion plugin
 
-# This is an IMVU Fork of the Cordova AppVersion plugin
+## This is an IMVU Fork of the Cordova AppVersion plugin in GitHub at https://github.com/whiteoctober/cordova-plugin-app-version
 
 Reads the version of your app from the target build settings.
 
